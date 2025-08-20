@@ -1,0 +1,46 @@
+{
+  "name": "Number System - SID",
+  "short_name": "Number System - SID",
+  "description": "Convert numbers between decimal, binary, octal, and hexadecimal. Perform binary arithmetic and bitwise operations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "productivity", "education"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20220503_200456-removebg-preview-Ogvep7p96V0bpAPrdv5Z0n7NbXAHFW.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20220503_200456-removebg-preview-Ogvep7p96V0bpAPrdv5Z0n7NbXAHFW.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20220503_200456-removebg-preview-Ogvep7p96V0bpAPrdv5Z0n7NbXAHFW.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-narrow.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
